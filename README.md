@@ -1,2 +1,2 @@
-# godplusone.github.io
-Just a personal blog! 
+# Just a personal blog! 
+https://godplusone.github.io/
